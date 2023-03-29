@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incident xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="V5.0 2018-05-30" xsi:noNamespaceSchemaLocation="incident-FinalRep-v7.2.1.xsd" sCreateTimeStamp="2023-03-29T15:13:15" sFormLanguage="en">
+  <admin_info>
+    <ncaName>MHRA</ncaName>
+    <ncaReportNo>MIR-2023-001</ncaReportNo>
+    <reportDate>2023-03-29</reportDate>
+    <adverseEventDateFrom>2023-03-28</adverseEventDateFrom>
+    <adverseEventDateTo>2023-03-28</adverseEventDateTo>
+    <mfrAwarenessDate>2023-03-29</mfrAwarenessDate>
+    <reportType>Final (Reportable incident)</reportType>
+    <eventClassification>All other reportable incidents</eventClassification>
+    <contact_info>
+      <reporterMfr>
+        <statusReporter>Manufacturer</statusReporter>
+        <reporterDetails>
+          <reporterOrgName>Acme</reporterOrgName>
+          <reporterContactPersonFirstName>John</reporterContactPersonFirstName>
+          <reporterContactPersonSecondName>Doe</reporterContactPersonSecondName>
+          <reporterOrgStreet>Main Street</reporterOrgStreet>
+          <reporterOrgStreetNum>1</reporterOrgStreetNum>
+          <reporterOrgCity>London</reporterOrgCity>
+          <reporterOrgCountry>GB</reporterOrgCountry>
+          <reporterOrgPostcode>SW1</reporterOrgPostcode>
+          <reporterOrgPhone>0123456789</reporterOrgPhone>
+          <reporterOrgEmailAddress>j.doe@acme.com</reporterOrgEmailAddress>
+        </reporterDetails>
+        <mfrDetails>
+          <mfrName>Acme</mfrName>
+          <mfrContactPersonFirstName>John</mfrContactPersonFirstName>
+          <mfrContactPersonSecondName>Doe</mfrContactPersonSecondName>
+          <mfrOrgStreet>Main Street</mfrOrgStreet>
+          <mfrOrgStreetNum>1</mfrOrgStreetNum>
+          <mfrCity>London</mfrCity>
+          <mfrCountry>GB</mfrCountry>
+          <mfrPostcode>SW1</mfrPostcode>
+          <mfrPhone>0123456789</mfrPhone>
+          <mfrEmailAddress>j.doe@acme.com</mfrEmailAddress>
+        </mfrDetails>
+      </reporterMfr>
+    </contact_info>
+    <mfrRef>MIR-001</mfrRef>
+  </admin_info>
+  <device_info>
+    <udiDI>Unknown</udiDI>
+    <udiPI>Unknown</udiPI>
+    <udiDIBasic>Unknown</udiDIBasic>
+    <brandName>Best Device</brandName>
+    <deviceDescription>All-in-one measurement device</deviceDescription>
+    <nbIdNum>0001</nbIdNum>
+    <nbCertNum>CE 123456</nbCertNum>
+    <nbCertNumLI>CE 123456</nbCertNumLI>
+    <deviceClassMDD>class Im</deviceClassMDD>
+    <deviceClassMDRType/>
+    <deviceClassIVDRType/>
+    <distribution>
+      <distributionEEA>GB</distributionEEA>
+    </distribution>
+  </device_info>
+  <incident_info>
+    <clinical_event_info>
+      <eventDescription>The device has failed</eventDescription>
+      <imdrfCodeChoice1>A27</imdrfCodeChoice1>
+      <currentDeviceLocation>Healthcare facility/carer</currentDeviceLocation>
+    </clinical_event_info>
+    <initial_reporter_info>
+      <initialReporterRole>Healthcare professional</initialReporterRole>
+      <healthcareFacilityCountry>GB</healthcareFacilityCountry>
+    </initial_reporter_info>
+  </incident_info>
+  <mfr_invest>
+    <manufacturersPrelimAnalysis>Unknown failure, to be investigated</manufacturersPrelimAnalysis>
+    <rootCauses>Root cause established</rootCauses>
+    <rootCauseConfirmed>Yes</rootCauseConfirmed>
+    <riskAssReviewed>Yes</riskAssReviewed>
+    <riskAssAdequate>Yes</riskAssAdequate>
+    <riskAssResults>Risk assessment conclusions</riskAssResults>
+    <imdrfTypeInvestigationCodeChoice1>B22</imdrfTypeInvestigationCodeChoice1>
+    <imdrfInvestigationFindingsCodeChoice1>C22</imdrfInvestigationFindingsCodeChoice1>
+    <imdrfInvestigationConclusionCodeChoice1>D17</imdrfInvestigationConclusionCodeChoice1>
+    <correctiveAction>Remedial action/CAPA/FSCA</correctiveAction>
+    <similarIncidents>
+      <similarIncImdrfCodesAnnexA>Yes</similarIncImdrfCodesAnnexA>
+      <similarIncImdrfCodesAnnexC>Yes</similarIncImdrfCodesAnnexC>
+      <similarVariant>Model</similarVariant>
+      <numberBasedOn>Devices placed on the market or put into service</numberBasedOn>
+      <timePeriodN>
+        <startDate>2023-01-01</startDate>
+        <endDate>2023-03-29</endDate>
+        <countrySimInc>0</countrySimInc>
+        <eeaChTrSimInc>0</eeaChTrSimInc>
+        <worldSimInc>0</worldSimInc>
+        <countrySimDev>100</countrySimDev>
+        <eeaChTrSimDev>100</eeaChTrSimDev>
+        <worldSimDev>100</worldSimDev>
+      </timePeriodN>
+      <timePeriodN-1>
+        <startDate>2022-01-01</startDate>
+        <endDate>2022-12-31</endDate>
+      </timePeriodN-1>
+      <timePeriodN-2>
+        <startDate>2021-01-01</startDate>
+        <endDate>2021-12-31</endDate>
+      </timePeriodN-2>
+      <timePeriodN-3>
+        <startDate>2020-01-01</startDate>
+        <endDate>2020-12-31</endDate>
+      </timePeriodN-3>
+    </similarIncidents>
+  </mfr_invest>
+</incident>

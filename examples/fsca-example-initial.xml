@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fsca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="V2.7 2012-12-03" xsi:noNamespaceSchemaLocation="FSCA_Initial_v2.6.xsd">
+  <summary>
+    <ncaName>BfArM</ncaName>
+    <reportType>Initial</reportType>
+    <reportDate>2023-03-29</reportDate>
+    <mfrInternalNo>mfrint/1002</mfrInternalNo>
+  </summary>
+  <contact_info>
+    <reporterMfr>
+      <statusReporter>Manufacturer</statusReporter>
+      <ncpDetails>
+        <ncpName>Audit</ncpName>
+        <ncpContactPerson>Auditor</ncpContactPerson>
+        <ncpAddress>Singerstrasse 1</ncpAddress>
+        <ncpCity>Horchstadt</ncpCity>
+        <ncpCountry>DE</ncpCountry>
+        <ncpPostcode>22222</ncpPostcode>
+        <ncpPhone>022-12345-88</ncpPhone>
+        <ncpEmail>auditor@audit.com</ncpEmail>
+      </ncpDetails>
+      <mfrDetails>
+        <mfrName>Inspiralo Schrauben</mfrName>
+        <mfrContactName>Manu Kontakt</mfrContactName>
+        <mfrAddress>Fabrikstrasse 1</mfrAddress>
+        <mfrCity>Industriestadt</mfrCity>
+        <mfrCountry>DE</mfrCountry>
+        <mfrPostcode>11111</mfrPostcode>
+        <mfrPhone>011-12345-77</mfrPhone>
+        <mfrEmailAddress>manu@inspiralo.de</mfrEmailAddress>
+      </mfrDetails>
+      <arDetails>
+        <ARCountry>DE</ARCountry>
+      </arDetails>
+    </reporterMfr>
+  </contact_info>
+  <deviceDetails>
+    <deviceClass>MDD Class I</deviceClass>
+    <brandName>Superglue</brandName>
+  </deviceDetails>
+  <fscaDesc>
+    <fscaBackground>Background</fscaBackground>
+    <fscaDescription>Description</fscaDescription>
+    <fscaTimeSchedule>we're gonna make it happen!</fscaTimeSchedule>
+    <fscaAttachmentFSNEnglish>0</fscaAttachmentFSNEnglish>
+    <fscaAttachmentFSNNational>0</fscaAttachmentFSNNational>
+    <fscaAttachmentFSNOther>0</fscaAttachmentFSNOther>
+    <fscaComments>we made it #1</fscaComments>
+  </fscaDesc>
+  <fscaDistribution>
+    <distributionEEA>AT</distributionEEA>
+    <distributionEEA>TR</distributionEEA>
+  </fscaDistribution>
+</fsca>
