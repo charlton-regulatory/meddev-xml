@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased](https://github.com/charlton-regulatory/meddev-xml/compare/master...develop)
 
+## [1.0.1](https://github.com/charlton-regulatory/meddev-xml/tree/1.0.1)/
+
+### Fixed
+
+- Fixed minor types and URL references in the README and XML-FORMAT documents.
+
 ## [1.0.0](https://github.com/charlton-regulatory/meddev-xml/tree/1.0.0)
 
 ### Added 
