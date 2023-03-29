@@ -3,7 +3,7 @@ Use this guide if you want to create your own MIR or FSCA XML files.
 You'll need to follow these instructions to ensure that the files validate against the schema, and are fully compatible with the websites listed in the [README](README.md).
 
 ## The XML root element
-The XML root element is described in the various schema (`<incident>` for the MIR form, and <fsca>` for the FSCA form).
+The XML root element is described in the various schema (`<incident>` for the MIR form, and `<fsca>` for the FSCA form).
 
 These elements will need to reference the schema and some other data as follows:
 

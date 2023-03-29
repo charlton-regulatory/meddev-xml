@@ -47,5 +47,5 @@ guide.
 
 
 > **PLEASE NOTE:** Consult the current MEDDEV 2.12/1 guidelines and device specific guidance available
-> at https://health.ec.europa.eu/system/files/2022-01/md_guidance_meddevs_0.pdf. If submitting in the UK,
+> at https://www.medical-device-regulation.eu/meddev-guidance-list-download/. If submitting in the UK,
 > also consult the latest MHRA guidance at https://www.gov.uk/government/collections/medical-devices-guidance-for-manufacturers-on-vigilance.
