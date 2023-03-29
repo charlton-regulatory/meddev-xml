@@ -31,7 +31,7 @@ For the FSCA, there are separate schema for:
 
 
 ## Known Compatibility
-XML files compyling with these templates have been successfully used and submitted to:
+XML files complying with these templates have been successfully used and submitted to:
 
 - The new MHRA MORE portal
 - The BSI eVigilance portal
@@ -42,7 +42,7 @@ One way to ensure your XML is compatible is to export XML from the MIR and FSCA 
 These are always compatible, and the files will validate against the schema and successfully upload to the
 above portals.
 
-If you are creatnig your own XML exports from other tools, then refer to the [XML-FORMAT](XML-FORMAT.md)
+If you are creating your own XML exports from other tools, then refer to the [XML-FORMAT](XML-FORMAT.md)
 guide.
 
 
